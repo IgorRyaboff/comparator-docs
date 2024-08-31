@@ -1,1 +1,35 @@
-site_name: My Docs
+site_name: Сравнитель, версия 1.0.1
+copyright: ООО "РС Консалт", 2024
+theme:
+  name: readthedocs
+
+nav:
+  - 'Введение':
+    - 'О конфигурации':
+      - 'introduction/about/about.md'
+      - 'introduction/about/sys-req.md'
+      - 'introduction/about/concept.md'
+      - 'introduction/about/newvers.md'
+    - 'Начало работы':
+      - 'introduction/beginning/install.md'
+      - 'introduction/beginning/users.md'
+  - 'Разработка':
+    - 'Разработка правил сравнения':
+      - 'development/comp-rules/concept.md'
+      - 'development/comp-rules/catalogs.md'
+      - 'development/comp-rules/data-export-epf.md'
+      - 'development/comp-rules/comparison-epf.md'
+  - 'Выгрузка и сравнение данных':
+    - 'Доставка данных сравниваемых баз Сравнителю':
+      - 'work/data-delivery/intro.md'
+      - 'work/data-delivery/concept.md'
+      - 'work/data-delivery/manual.md'
+      - 'work/data-delivery/to-comparator.md'
+      - 'work/data-delivery/from-comparator.md'
+      - 'work/data-delivery/using-file-system.md'
+    - 'Сравнение данных':
+      - 'work/comparison/concept.md'
+      - 'work/comparison/view-comp-results.md'
+  - 'Настройка приложения':
+    - 'settings/ssl-tools.md'
+    - 'settings/scheduled-jobs.md'

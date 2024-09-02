@@ -23,6 +23,7 @@ nav:
     - 'Доставка данных сравниваемых баз Сравнителю':
       - 'work/data-delivery/intro.md'
       - 'work/data-delivery/concept.md'
+      - 'work/data-delivery/wizard-install.md'
       - 'work/data-delivery/manual.md'
       - 'work/data-delivery/to-comparator.md'
       - 'work/data-delivery/from-comparator.md'

@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Сравнитель, редакция 1.0
+---
+**Сравнитель** - это приложение на платформе 1С:Предприятие, предназначенное для автоматизации процесса сравнения данных между разными информационными базами 1С.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Сравнитель поддерживает работу с **любыми** конфигурациями, использующими Библиотеку стандартных подсистем версий 3.1.9-3.1.10. Решение рассчитано на максимальную гибкость и универсальность - можно сравнивать данные любого характера, вида учета и т.п.

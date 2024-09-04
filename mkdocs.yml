@@ -6,7 +6,6 @@ theme:
 nav:
   - 'Введение':
     - 'О конфигурации':
-      - 'introduction/about/about.md'
       - 'introduction/about/sys-req.md'
       - 'introduction/about/concept.md'
       - 'introduction/about/newvers.md'
@@ -32,5 +31,4 @@ nav:
       - 'work/comparison/concept.md'
       - 'work/comparison/view-comp-results.md'
   - 'Настройка приложения':
-    - 'settings/ssl-tools.md'
-    - 'settings/scheduled-jobs.md'
+    - 'settings/contents.md'

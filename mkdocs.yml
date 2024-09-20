@@ -19,7 +19,7 @@ nav:
       - 'development/comp-rules/data-export-epf.md'
       - 'development/comp-rules/comparison-epf.md'
   - 'Выгрузка и сравнение данных':
-    - 'Доставка данных сравниваемых баз Сравнителю':
+    - 'Доставка данных целевых баз Сравнителю':
       - 'work/data-delivery/intro.md'
       - 'work/data-delivery/concept.md'
       - 'work/data-delivery/wizard-install.md'
@@ -33,3 +33,5 @@ nav:
       - 'work/comparison/view-comp-results.md'
   - 'Настройка приложения':
     - 'settings/contents.md'
+    - 'settings/updating.md'
+    - 'settings/patches.md'
